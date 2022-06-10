@@ -1,0 +1,29 @@
+.rowGap {
+  row-gap: 36px;
+  column-gap: 53px;
+}
+
+.colWidth {
+  width: 30%;
+}
+
+.imgSection {
+  height: 200px;
+  width: 85%;
+}
+
+.bullets {
+  list-style-type: none;  
+  font-size: 0.5rem; 
+  display: block;
+}
+
+.listStyle {
+  display: inline-block;
+}
+
+.projectBtn {
+  width: 31%;
+  margin-left: 115px;
+  font-size: smaller;
+}
